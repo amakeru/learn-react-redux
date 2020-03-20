@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00fe19d1ff06869e0ff4329b12739fe2",
+    "revision": "4e02ed52dacab812c8fc69f977ca9c62",
     "url": "/learn-react-redux/index.html"
   },
   {
@@ -8,23 +8,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/css/10.89a5b2a6.chunk.css"
   },
   {
-    "revision": "14945092b130ba51679c",
+    "revision": "aadf51b2d52ee944c0a8",
     "url": "/learn-react-redux/static/css/3.764ccc25.chunk.css"
   },
   {
-    "revision": "e038c7f7a811f0bb3d98",
+    "revision": "5e4cb75da08523748399",
     "url": "/learn-react-redux/static/css/4.c92f8b0a.chunk.css"
   },
   {
-    "revision": "3026606f6f23cb669164",
+    "revision": "46f1b83d875dd5e04ad3",
     "url": "/learn-react-redux/static/css/5.0851c42b.chunk.css"
   },
   {
-    "revision": "faee99fe921c72e109ff",
-    "url": "/learn-react-redux/static/css/6.ea180078.chunk.css"
+    "revision": "1a14d1bd36c80352ce6c",
+    "url": "/learn-react-redux/static/css/6.95cc482f.chunk.css"
   },
   {
-    "revision": "34b5af25d76223c04fd9",
+    "revision": "f37555292a0e3e3da362",
     "url": "/learn-react-redux/static/css/7.b31d720d.chunk.css"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/css/8.45b584ed.chunk.css"
   },
   {
-    "revision": "6ff5458723fa2953bd3c",
+    "revision": "7585ef325aa293c25b24",
     "url": "/learn-react-redux/static/css/9.3551bcbf.chunk.css"
   },
   {
-    "revision": "70f34c0e70f23464208e",
+    "revision": "4b2394a8aaff411b3d9c",
     "url": "/learn-react-redux/static/css/main.1b3b329c.chunk.css"
   },
   {
-    "revision": "dd5f4bde37d5c9a48eff",
-    "url": "/learn-react-redux/static/js/0.82b6c3d8.chunk.js"
+    "revision": "1db13db2df28240cc10b",
+    "url": "/learn-react-redux/static/js/0.ac9ab919.chunk.js"
   },
   {
     "revision": "18ec69ff39d31095f2c2",
@@ -56,44 +56,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/js/12.036e7f04.chunk.js"
   },
   {
-    "revision": "14945092b130ba51679c",
-    "url": "/learn-react-redux/static/js/3.0cb557db.chunk.js"
+    "revision": "aadf51b2d52ee944c0a8",
+    "url": "/learn-react-redux/static/js/3.9ad0abb9.chunk.js"
   },
   {
     "revision": "65f61a1b574cbfdae1aa1e0f7a13f7ca",
-    "url": "/learn-react-redux/static/js/3.0cb557db.chunk.js.LICENSE.txt"
+    "url": "/learn-react-redux/static/js/3.9ad0abb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e038c7f7a811f0bb3d98",
-    "url": "/learn-react-redux/static/js/4.e32eeb7c.chunk.js"
+    "revision": "5e4cb75da08523748399",
+    "url": "/learn-react-redux/static/js/4.84124692.chunk.js"
   },
   {
-    "revision": "3026606f6f23cb669164",
-    "url": "/learn-react-redux/static/js/5.743c134f.chunk.js"
+    "revision": "46f1b83d875dd5e04ad3",
+    "url": "/learn-react-redux/static/js/5.94806fb8.chunk.js"
   },
   {
-    "revision": "faee99fe921c72e109ff",
-    "url": "/learn-react-redux/static/js/6.529ea649.chunk.js"
+    "revision": "1a14d1bd36c80352ce6c",
+    "url": "/learn-react-redux/static/js/6.b3b25f17.chunk.js"
   },
   {
-    "revision": "34b5af25d76223c04fd9",
-    "url": "/learn-react-redux/static/js/7.992f2b80.chunk.js"
+    "revision": "f37555292a0e3e3da362",
+    "url": "/learn-react-redux/static/js/7.b95170a4.chunk.js"
   },
   {
     "revision": "ca72b9079546efba04a5",
     "url": "/learn-react-redux/static/js/8.0b1925e9.chunk.js"
   },
   {
-    "revision": "6ff5458723fa2953bd3c",
-    "url": "/learn-react-redux/static/js/9.ae00c499.chunk.js"
+    "revision": "7585ef325aa293c25b24",
+    "url": "/learn-react-redux/static/js/9.60f35200.chunk.js"
   },
   {
-    "revision": "70f34c0e70f23464208e",
-    "url": "/learn-react-redux/static/js/main.e03873ef.chunk.js"
+    "revision": "4b2394a8aaff411b3d9c",
+    "url": "/learn-react-redux/static/js/main.624e9ec5.chunk.js"
   },
   {
-    "revision": "c20a668144a878328062",
-    "url": "/learn-react-redux/static/js/runtime-main.3c4be9b8.js"
+    "revision": "4e6c04f0a66d2d9d6878",
+    "url": "/learn-react-redux/static/js/runtime-main.ba04125f.js"
   },
   {
     "revision": "4b508f0668a1423b273e6fd0704c6363",
