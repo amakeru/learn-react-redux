@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebd4afa4ab383339f29fe474bcfb858e",
+    "revision": "00fe19d1ff06869e0ff4329b12739fe2",
     "url": "/learn-react-redux/index.html"
   },
   {
@@ -8,23 +8,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/css/10.89a5b2a6.chunk.css"
   },
   {
-    "revision": "429d62a2d605df99472c",
+    "revision": "14945092b130ba51679c",
     "url": "/learn-react-redux/static/css/3.764ccc25.chunk.css"
   },
   {
-    "revision": "e8bf1a313767c885bf16",
-    "url": "/learn-react-redux/static/css/4.c3f719f2.chunk.css"
+    "revision": "e038c7f7a811f0bb3d98",
+    "url": "/learn-react-redux/static/css/4.c92f8b0a.chunk.css"
   },
   {
-    "revision": "89589ca55420711967ac",
+    "revision": "3026606f6f23cb669164",
     "url": "/learn-react-redux/static/css/5.0851c42b.chunk.css"
   },
   {
-    "revision": "b1ec0dadbe5ac4d6cea9",
-    "url": "/learn-react-redux/static/css/6.ca3c372e.chunk.css"
+    "revision": "faee99fe921c72e109ff",
+    "url": "/learn-react-redux/static/css/6.ea180078.chunk.css"
   },
   {
-    "revision": "b8c16a9ba5ea938a4d12",
+    "revision": "34b5af25d76223c04fd9",
     "url": "/learn-react-redux/static/css/7.b31d720d.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/css/9.3551bcbf.chunk.css"
   },
   {
-    "revision": "26065b759011c85ef75a",
+    "revision": "70f34c0e70f23464208e",
     "url": "/learn-react-redux/static/css/main.1b3b329c.chunk.css"
   },
   {
-    "revision": "80159673474fcd8a078f",
-    "url": "/learn-react-redux/static/js/0.97e49992.chunk.js"
+    "revision": "dd5f4bde37d5c9a48eff",
+    "url": "/learn-react-redux/static/js/0.82b6c3d8.chunk.js"
   },
   {
     "revision": "18ec69ff39d31095f2c2",
@@ -56,28 +56,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/js/12.036e7f04.chunk.js"
   },
   {
-    "revision": "429d62a2d605df99472c",
-    "url": "/learn-react-redux/static/js/3.ca772997.chunk.js"
+    "revision": "14945092b130ba51679c",
+    "url": "/learn-react-redux/static/js/3.0cb557db.chunk.js"
   },
   {
     "revision": "65f61a1b574cbfdae1aa1e0f7a13f7ca",
-    "url": "/learn-react-redux/static/js/3.ca772997.chunk.js.LICENSE.txt"
+    "url": "/learn-react-redux/static/js/3.0cb557db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8bf1a313767c885bf16",
-    "url": "/learn-react-redux/static/js/4.768749dc.chunk.js"
+    "revision": "e038c7f7a811f0bb3d98",
+    "url": "/learn-react-redux/static/js/4.e32eeb7c.chunk.js"
   },
   {
-    "revision": "89589ca55420711967ac",
-    "url": "/learn-react-redux/static/js/5.6cbb0c74.chunk.js"
+    "revision": "3026606f6f23cb669164",
+    "url": "/learn-react-redux/static/js/5.743c134f.chunk.js"
   },
   {
-    "revision": "b1ec0dadbe5ac4d6cea9",
-    "url": "/learn-react-redux/static/js/6.901a42b3.chunk.js"
+    "revision": "faee99fe921c72e109ff",
+    "url": "/learn-react-redux/static/js/6.529ea649.chunk.js"
   },
   {
-    "revision": "b8c16a9ba5ea938a4d12",
-    "url": "/learn-react-redux/static/js/7.718e8a26.chunk.js"
+    "revision": "34b5af25d76223c04fd9",
+    "url": "/learn-react-redux/static/js/7.992f2b80.chunk.js"
   },
   {
     "revision": "ca72b9079546efba04a5",
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/js/9.ae00c499.chunk.js"
   },
   {
-    "revision": "26065b759011c85ef75a",
-    "url": "/learn-react-redux/static/js/main.ed2ad20d.chunk.js"
+    "revision": "70f34c0e70f23464208e",
+    "url": "/learn-react-redux/static/js/main.e03873ef.chunk.js"
   },
   {
-    "revision": "57060d65558efa6bf9e3",
-    "url": "/learn-react-redux/static/js/runtime-main.9278fde1.js"
+    "revision": "c20a668144a878328062",
+    "url": "/learn-react-redux/static/js/runtime-main.3c4be9b8.js"
   },
   {
     "revision": "4b508f0668a1423b273e6fd0704c6363",
@@ -104,7 +104,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-react-redux/static/media/loading.87352807.svg"
   },
   {
-    "revision": "f4855038e222e9be8912ef7fd4ee6d96",
-    "url": "/learn-react-redux/static/media/sprite.f4855038.svg"
+    "revision": "d051a21cd1f5968b21ba745d060066bf",
+    "url": "/learn-react-redux/static/media/sprite.d051a21c.svg"
   }
 ]);
